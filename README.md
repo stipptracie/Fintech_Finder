@@ -28,13 +28,9 @@ Integrating these two files will allows automation of the tasks associated with 
 
 ## Highlights:
 
-![sidebar](images/sidebar.png)
+![sidebar](https://github.com/stipptracie/Fintech_Finder/blob/main/Images/sidebar.png)
 
-![streamlitclip1](images/fintech_professionals1.png)
-
-![streamlitclip2](images/fintech_professionals2.png)
-
-![Ganache_wallet](images/Ganache_wallet.png)
+![Ganache_wallet](https://github.com/stipptracie/Fintech_Finder/blob/main/Images/Ganache_wallet.png)
 ---
 
 > email: stipptracie@gmail.com |
